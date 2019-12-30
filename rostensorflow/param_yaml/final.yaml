@@ -1,0 +1,27 @@
+- name_object: water bottle_2
+  position:
+    x: 0.112
+    y: 2.666
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.932
+    r4: 0.348
+- name_object: water bottle_0
+  position:
+    x: 2.487
+    y: 0.38
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.891
+    r4: 0.446
+- name_object: water bottle_1
+  position:
+    x: 2.503
+    y: 0.283
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.893
+    r4: 0.447

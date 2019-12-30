@@ -1,0 +1,8 @@
+<launch>
+    <include  file = "$(find rplidar_ros)/launch/rplidar.launch"/>
+
+    <include  file = "$(find odometry)/launch/odometry.launch"/>
+
+    <include  file = "$(find odometry)/launch/control_robot.launch"/>
+
+</launch> 

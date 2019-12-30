@@ -1,0 +1,1800 @@
+- name_object: water bottle
+  position:
+    x: 2.399150848388672
+    y: 0.09294891357421875
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9903480937115965
+    r4: -0.13860250099405466
+- name_object: water bottle
+  position:
+    x: 2.398448944091797
+    y: 0.09324264526367188
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9903869821459748
+    r4: -0.1383243492512747
+- name_object: water bottle
+  position:
+    x: 2.3992843627929688
+    y: 0.09449386596679688
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9900532026591766
+    r4: -0.14069348209603544
+- name_object: water bottle
+  position:
+    x: 2.396484375
+    y: 0.09441375732421875
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9902742956445492
+    r4: -0.13912878704887788
+- name_object: water bottle
+  position:
+    x: 2.4000167846679688
+    y: 0.09243011474609375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.990450099625934
+    r4: -0.1378716800179694
+- name_object: water bottle
+  position:
+    x: 2.397937774658203
+    y: 0.093841552734375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9904045849558413
+    r4: -0.13819825649568745
+- name_object: water bottle
+  position:
+    x: 2.3962783813476562
+    y: 0.09180450439453125
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9905613074150411
+    r4: -0.1370704061867636
+- name_object: water bottle
+  position:
+    x: 2.396038055419922
+    y: 0.09766387939453125
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9899934389360717
+    r4: -0.1411133971794684
+- name_object: water bottle
+  position:
+    x: 2.4022216796875
+    y: 0.09171676635742188
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9904090984448889
+    r4: -0.13816590649499008
+- name_object: water bottle
+  position:
+    x: 2.397258758544922
+    y: 0.09355545043945312
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9900326968069727
+    r4: -0.140837705367252
+- name_object: water bottle
+  position:
+    x: 2.4007186889648438
+    y: 0.09362030029296875
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9904067265239883
+    r4: -0.13818290797359073
+- name_object: water bottle
+  position:
+    x: 2.400257110595703
+    y: 0.09055328369140625
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9905826681792632
+    r4: -0.13691595050559888
+- name_object: water bottle
+  position:
+    x: 2.3972244262695312
+    y: 0.09478759765625
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9902947182314129
+    r4: -0.1389833480779854
+- name_object: water bottle
+  position:
+    x: 2.399791717529297
+    y: 0.09539031982421875
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9900483381962419
+    r4: -0.1407277088382378
+- name_object: water bottle
+  position:
+    x: 2.402942657470703
+    y: 0.09166336059570312
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9903118752371636
+    r4: -0.1388610448046985
+- name_object: water bottle
+  position:
+    x: 2.399677276611328
+    y: 0.09273529052734375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9903855969743391
+    r4: -0.13833426656393535
+- name_object: water bottle
+  position:
+    x: 2.398223876953125
+    y: 0.09235382080078125
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9904630464969764
+    r4: -0.1377786395778694
+- name_object: water bottle
+  position:
+    x: 2.4005050659179688
+    y: 0.09000396728515625
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9905162862498735
+    r4: -0.13739536627469853
+- name_object: water bottle
+  position:
+    x: 2.393016815185547
+    y: 0.09345245361328125
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9903021062071015
+    r4: -0.1389306965424799
+- name_object: water bottle
+  position:
+    x: 2.4014053344726562
+    y: 0.09261322021484375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9905496370199884
+    r4: -0.13715471774448454
+- name_object: water bottle
+  position:
+    x: 2.395477294921875
+    y: 0.095703125
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9900016127801098
+    r4: -0.14105604096521906
+- name_object: water bottle
+  position:
+    x: 2.399280548095703
+    y: 0.09088134765625
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9907751882684518
+    r4: -0.13551577882893917
+- name_object: water bottle
+  position:
+    x: 2.3998641967773438
+    y: 0.09087371826171875
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9905041620808969
+    r4: -0.1374827440096407
+- name_object: water bottle
+  position:
+    x: 2.3990249633789062
+    y: 0.09297943115234375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9904823519686312
+    r4: -0.1376397850866111
+- name_object: water bottle
+  position:
+    x: 2.4003372192382812
+    y: 0.09424591064453125
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.99020514514515
+    r4: -0.13962009356848495
+- name_object: water bottle
+  position:
+    x: 2.394561767578125
+    y: 0.09369659423828125
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9905121255795916
+    r4: -0.1374253582123742
+- name_object: water bottle
+  position:
+    x: 2.401050567626953
+    y: 0.08979415893554688
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9907045224841299
+    r4: -0.13603142699204535
+- name_object: water bottle
+  position:
+    x: 2.398540496826172
+    y: 0.09197998046875
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9904216779211382
+    r4: -0.13807570352483164
+- name_object: water bottle
+  position:
+    x: 2.3999099731445312
+    y: 0.09459686279296875
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9900378336320956
+    r4: -0.14080159081866528
+- name_object: water bottle
+  position:
+    x: 2.401622772216797
+    y: 0.09230422973632812
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9904547996276049
+    r4: -0.13783791167396994
+- name_object: water bottle
+  position:
+    x: 2.399425506591797
+    y: 0.09238815307617188
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9903459125918377
+    r4: -0.13861808472432538
+- name_object: water bottle
+  position:
+    x: 2.401172637939453
+    y: 0.095947265625
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9901098115485856
+    r4: -0.14029455112449804
+- name_object: water bottle
+  position:
+    x: 2.3992385864257812
+    y: 0.09021759033203125
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9907168427375916
+    r4: -0.13594166953534942
+- name_object: water bottle
+  position:
+    x: 2.3964614868164062
+    y: 0.09690475463867188
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9898804155907368
+    r4: -0.1419040620627548
+- name_object: water bottle
+  position:
+    x: 2.398876190185547
+    y: 0.09241867065429688
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9903905435598892
+    r4: -0.13829884752646077
+- name_object: water bottle
+  position:
+    x: 2.399341583251953
+    y: 0.09169769287109375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9905249322962871
+    r4: -0.13733302042639225
+- name_object: water bottle
+  position:
+    x: 2.399810791015625
+    y: 0.08888626098632812
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9905725787094252
+    r4: -0.13698892768745854
+- name_object: water bottle
+  position:
+    x: 2.399951934814453
+    y: 0.09377288818359375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9905739177510238
+    r4: -0.13697924467373856
+- name_object: water bottle
+  position:
+    x: 2.3995132446289062
+    y: 0.0916748046875
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9908350254532222
+    r4: -0.13507757895044079
+- name_object: water bottle
+  position:
+    x: 2.4023666381835938
+    y: 0.09395599365234375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9900957246045466
+    r4: -0.14039393191943095
+- name_object: water bottle
+  position:
+    x: 2.3996658325195312
+    y: 0.09069061279296875
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9905627452863212
+    r4: -0.1370600147775668
+- name_object: water bottle
+  position:
+    x: 2.396617889404297
+    y: 0.09373092651367188
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9901753631584741
+    r4: -0.13983114886885495
+- name_object: water bottle
+  position:
+    x: 2.3941650390625
+    y: 0.09379196166992188
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9903077695298145
+    r4: -0.13889032222903028
+- name_object: water bottle
+  position:
+    x: 2.3980712890625
+    y: 0.09212112426757812
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.990364906533478
+    r4: -0.13848231622461948
+- name_object: water bottle
+  position:
+    x: 2.399017333984375
+    y: 0.09259033203125
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9907594468734364
+    r4: -0.13563081667173718
+- name_object: water bottle
+  position:
+    x: 2.399456024169922
+    y: 0.090362548828125
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9906266853313491
+    r4: -0.13659710944754377
+- name_object: water bottle
+  position:
+    x: 2.396862030029297
+    y: 0.09085845947265625
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9907268550541259
+    r4: -0.13586868172820732
+- name_object: water bottle
+  position:
+    x: 2.3970947265625
+    y: 0.09273529052734375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9904145000641223
+    r4: -0.13812718075286495
+- name_object: water bottle
+  position:
+    x: 2.400165557861328
+    y: 0.09260177612304688
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9901684275654048
+    r4: -0.1398802525471476
+- name_object: water bottle
+  position:
+    x: 2.398834228515625
+    y: 0.09299850463867188
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9903352017199724
+    r4: -0.13869458617502567
+- name_object: water bottle
+  position:
+    x: 2.4022903442382812
+    y: 0.09385299682617188
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9902480398625458
+    r4: -0.1393155395079306
+- name_object: water bottle
+  position:
+    x: 2.400848388671875
+    y: 0.09365081787109375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9901689278098386
+    r4: -0.1398767114280095
+- name_object: water bottle
+  position:
+    x: 2.399089813232422
+    y: 0.0887451171875
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9908366034308247
+    r4: -0.13506600350075754
+- name_object: water bottle
+  position:
+    x: 2.3988571166992188
+    y: 0.09502410888671875
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9901692946477081
+    r4: -0.13987411460617125
+- name_object: water bottle
+  position:
+    x: 2.4019851684570312
+    y: 0.09416580200195312
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9903622319914777
+    r4: -0.13850144203169326
+- name_object: water bottle
+  position:
+    x: 2.3969497680664062
+    y: 0.09204864501953125
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9901737961941476
+    r4: -0.13984224444162346
+- name_object: water bottle
+  position:
+    x: 2.397380828857422
+    y: 0.09325408935546875
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9904056063487805
+    r4: -0.13819093643544259
+- name_object: water bottle
+  position:
+    x: 2.4003372192382812
+    y: 0.09351730346679688
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9901591874419399
+    r4: -0.13994564489228475
+- name_object: water bottle
+  position:
+    x: 2.3968887329101562
+    y: 0.095916748046875
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9899720972949134
+    r4: -0.1412630403803857
+- name_object: water bottle
+  position:
+    x: 2.403491973876953
+    y: 0.09420013427734375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9901613560897572
+    r4: -0.13993030017295444
+- name_object: water bottle
+  position:
+    x: 2.400554656982422
+    y: 0.09309005737304688
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9903078357577685
+    r4: -0.1388898500134719
+- name_object: water bottle
+  position:
+    x: 2.4009475708007812
+    y: 0.09431076049804688
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9902230459562705
+    r4: -0.13949307960284565
+- name_object: water bottle
+  position:
+    x: 2.3944778442382812
+    y: 0.09489059448242188
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9902019492354464
+    r4: -0.1396427575290692
+- name_object: water bottle
+  position:
+    x: 2.402721405029297
+    y: 0.0931396484375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9904194063200187
+    r4: -0.13809199681625922
+- name_object: water bottle
+  position:
+    x: 2.402538299560547
+    y: 0.09462738037109375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9900665822114947
+    r4: -0.14059929867552523
+- name_object: water bottle
+  position:
+    x: 2.4006118774414062
+    y: 0.09148025512695312
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9904918662068842
+    r4: -0.13757130143312535
+- name_object: water bottle
+  position:
+    x: 2.3944625854492188
+    y: 0.09421539306640625
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9904861910414615
+    r4: -0.13761215555385103
+- name_object: water bottle
+  position:
+    x: 2.3975753784179688
+    y: 0.09310150146484375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9903616375986516
+    r4: -0.1385056922040285
+- name_object: water bottle
+  position:
+    x: 2.3968429565429688
+    y: 0.093902587890625
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9900584683641712
+    r4: -0.1406564226062623
+- name_object: water bottle
+  position:
+    x: 2.3941116333007812
+    y: 0.09632492065429688
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9901136243492087
+    r4: -0.14026764016719664
+- name_object: water bottle
+  position:
+    x: 2.398548126220703
+    y: 0.09458160400390625
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.990346672706864
+    r4: -0.1386126540343394
+- name_object: water bottle
+  position:
+    x: 2.3955612182617188
+    y: 0.0972900390625
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9900107245468678
+    r4: -0.14099207524604343
+- name_object: water bottle
+  position:
+    x: 2.399272918701172
+    y: 0.09596633911132812
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9902757551091196
+    r4: -0.13911839865044112
+- name_object: water bottle
+  position:
+    x: 2.397998809814453
+    y: 0.09434127807617188
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9900246027962004
+    r4: -0.1408945913022409
+- name_object: water bottle
+  position:
+    x: 2.39483642578125
+    y: 0.099029541015625
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9898514343005668
+    r4: -0.14210608014124756
+- name_object: water bottle
+  position:
+    x: 2.3994522094726562
+    y: 0.09418869018554688
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.990202382045252
+    r4: -0.1396396884553556
+- name_object: water bottle
+  position:
+    x: 2.398101806640625
+    y: 0.09478759765625
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9904430967895665
+    r4: -0.13792197802342243
+- name_object: water bottle
+  position:
+    x: 2.397918701171875
+    y: 0.095062255859375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9898518747452985
+    r4: -0.14210301215392265
+- name_object: water bottle
+  position:
+    x: 2.3968887329101562
+    y: 0.09189987182617188
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9903937746449922
+    r4: -0.1382757069931097
+- name_object: water bottle
+  position:
+    x: 2.3984146118164062
+    y: 0.09724807739257812
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9898937750642092
+    r4: -0.141810839110164
+- name_object: water bottle
+  position:
+    x: 2.4051895141601562
+    y: 0.093292236328125
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9902170253829804
+    r4: -0.1395358113234086
+- name_object: water bottle
+  position:
+    x: 2.4007568359375
+    y: 0.09392547607421875
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9901109487761912
+    r4: -0.14028652506035827
+- name_object: water bottle
+  position:
+    x: 2.4016342163085938
+    y: 0.09503173828125
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9901046932192302
+    r4: -0.1403306682990356
+- name_object: water bottle
+  position:
+    x: 2.3983154296875
+    y: 0.09230422973632812
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9906934922064907
+    r4: -0.13611173534896986
+- name_object: water bottle
+  position:
+    x: 2.4008102416992188
+    y: 0.09255218505859375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9905427033052984
+    r4: -0.13720478464190522
+- name_object: water bottle
+  position:
+    x: 2.397785186767578
+    y: 0.090423583984375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9905516970229227
+    r4: -0.13713983930648302
+- name_object: water bottle
+  position:
+    x: 2.397296905517578
+    y: 0.095458984375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.990325146639432
+    r4: -0.13876636456139976
+- name_object: water bottle
+  position:
+    x: 2.402423858642578
+    y: 0.12061691284179688
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9992722138329581
+    r4: -0.03814502144945039
+- name_object: water bottle
+  position:
+    x: 2.396564483642578
+    y: 0.12358856201171875
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9996642730902244
+    r4: -0.025910251002124338
+- name_object: water bottle
+  position:
+    x: 2.3881607055664062
+    y: 0.15409469604492188
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9990786801021778
+    r4: 0.04291609214840361
+- name_object: water bottle
+  position:
+    x: 2.382404327392578
+    y: 0.16069793701171875
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9957850454793439
+    r4: 0.0917177365600624
+- name_object: water bottle
+  position:
+    x: 2.3819503784179688
+    y: 0.17154693603515625
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9941785857524807
+    r4: 0.1077447893459232
+- name_object: water bottle
+  position:
+    x: 2.377471923828125
+    y: 0.18279266357421875
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9859120696483267
+    r4: 0.16726443412080486
+- name_object: water bottle
+  position:
+    x: 2.3759536743164062
+    y: 0.1929931640625
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9845890880566429
+    r4: 0.17488375476238022
+- name_object: water bottle
+  position:
+    x: 2.373363494873047
+    y: 0.19263458251953125
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9794891103876213
+    r4: 0.20149710328455406
+- name_object: water bottle
+  position:
+    x: 2.366741180419922
+    y: 0.21851348876953125
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9634249396959497
+    r4: 0.2679783304147106
+- name_object: water bottle
+  position:
+    x: 2.351848602294922
+    y: 0.2555732727050781
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9254494082503719
+    r4: 0.37887120868315716
+- name_object: water bottle
+  position:
+    x: 2.352191925048828
+    y: 0.249359130859375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.9250205176176415
+    r4: 0.37991715147699057
+- name_object: water bottle
+  position:
+    x: 1.7111396789550781
+    y: 2.254405975341797
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.1983226786379669
+    r4: 0.9801367838918513
+- name_object: water bottle
+  position:
+    x: 1.704833984375
+    y: 2.2527084350585938
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19791909160883878
+    r4: 0.9802183599467682
+- name_object: water bottle
+  position:
+    x: 1.7159957885742188
+    y: 2.255420684814453
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.20005535952309508
+    r4: 0.9797845952688199
+- name_object: water bottle
+  position:
+    x: 1.7086372375488281
+    y: 2.253429412841797
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19914201804263015
+    r4: 0.979970640708133
+- name_object: water bottle
+  position:
+    x: 1.7084426879882812
+    y: 2.2543106079101562
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.1984228106909186
+    r4: 0.980116517663852
+- name_object: water bottle
+  position:
+    x: 1.7138748168945312
+    y: 2.253997802734375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19815641045933952
+    r4: 0.9801704122211963
+- name_object: water bottle
+  position:
+    x: 1.7023200988769531
+    y: 2.253643035888672
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.1963550216671415
+    r4: 0.980532868121256
+- name_object: water bottle
+  position:
+    x: 1.71435546875
+    y: 2.252643585205078
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.20024527162957917
+    r4: 0.9797457992714212
+- name_object: water bottle
+  position:
+    x: 1.71478271484375
+    y: 2.2554702758789062
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.199106036854418
+    r4: 0.979977951837758
+- name_object: water bottle
+  position:
+    x: 1.71551513671875
+    y: 2.2563552856445312
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19939855145810909
+    r4: 0.9799184750153493
+- name_object: water bottle
+  position:
+    x: 1.7047195434570312
+    y: 2.2552108764648438
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19817779312376754
+    r4: 0.9801660891464228
+- name_object: water bottle
+  position:
+    x: 1.70770263671875
+    y: 2.256072998046875
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19719362563560341
+    r4: 0.9803645617874431
+- name_object: water bottle
+  position:
+    x: 1.7038650512695312
+    y: 2.254486083984375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19768947370201148
+    r4: 0.9802646948592109
+- name_object: water bottle
+  position:
+    x: 1.7118110656738281
+    y: 2.2522659301757812
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19935194189386432
+    r4: 0.9799279582005738
+- name_object: water bottle
+  position:
+    x: 1.7118911743164062
+    y: 2.2553024291992188
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19793661924734018
+    r4: 0.9802148207209139
+- name_object: water bottle
+  position:
+    x: 1.710906982421875
+    y: 2.253520965576172
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19885521248107435
+    r4: 0.9800288794056565
+- name_object: water bottle
+  position:
+    x: 1.7101554870605469
+    y: 2.2548828125
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.1977919559103846
+    r4: 0.9802440217502704
+- name_object: water bottle
+  position:
+    x: 1.7013740539550781
+    y: 2.258197784423828
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.1891690014280227
+    r4: 0.9819445447166173
+- name_object: water bottle
+  position:
+    x: 1.7160530090332031
+    y: 2.254688262939453
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19896608149891662
+    r4: 0.9800063767205632
+- name_object: water bottle
+  position:
+    x: 1.7054252624511719
+    y: 2.2530136108398438
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19861512385358587
+    r4: 0.9800775645716132
+- name_object: water bottle
+  position:
+    x: 1.7090988159179688
+    y: 2.253803253173828
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19883640304847142
+    r4: 0.9800326957927199
+- name_object: water bottle
+  position:
+    x: 1.7034797668457031
+    y: 2.2527236938476562
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.1976652843136512
+    r4: 0.9802695728100528
+- name_object: water bottle
+  position:
+    x: 1.7157402038574219
+    y: 2.254016876220703
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.1980826804397433
+    r4: 0.9801853149837568
+- name_object: water bottle
+  position:
+    x: 1.7098159790039062
+    y: 2.2532424926757812
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.1983978070816925
+    r4: 0.9801215792671721
+- name_object: water bottle
+  position:
+    x: 1.7110214233398438
+    y: 2.255237579345703
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19921584873101886
+    r4: 0.9799556345133078
+- name_object: water bottle
+  position:
+    x: 1.7037734985351562
+    y: 2.254016876220703
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19777174009286239
+    r4: 0.9802481006462809
+- name_object: water bottle
+  position:
+    x: 1.6981887817382812
+    y: 2.2601394653320312
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.18856588858031936
+    r4: 0.9820605407325531
+- name_object: water bottle
+  position:
+    x: 1.7096633911132812
+    y: 2.2547988891601562
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.1996393019464124
+    r4: 0.9798694551410148
+- name_object: water bottle
+  position:
+    x: 1.7122421264648438
+    y: 2.2532958984375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19734496807421742
+    r4: 0.9803341081364996
+- name_object: water bottle
+  position:
+    x: 1.71002197265625
+    y: 2.250751495361328
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.20103987749721614
+    r4: 0.9795830580690462
+- name_object: water bottle
+  position:
+    x: 1.717620849609375
+    y: 2.2499923706054688
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.20240910572439907
+    r4: 0.9793010537724592
+- name_object: water bottle
+  position:
+    x: 1.7158317565917969
+    y: 2.2573776245117188
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.1974954877805497
+    r4: 0.980303795925693
+- name_object: water bottle
+  position:
+    x: 1.7079696655273438
+    y: 2.2545242309570312
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19766364831202515
+    r4: 0.9802699026982212
+- name_object: water bottle
+  position:
+    x: 1.7055168151855469
+    y: 2.2580490112304688
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.18923502109852808
+    r4: 0.9819318239011503
+- name_object: water bottle
+  position:
+    x: 1.7072982788085938
+    y: 2.24847412109375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.2044870022910271
+    r4: 0.9788692792676811
+- name_object: water bottle
+  position:
+    x: 1.7128181457519531
+    y: 2.252910614013672
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.2009429529309594
+    r4: 0.9796029449054277
+- name_object: water bottle
+  position:
+    x: 1.7067451477050781
+    y: 2.252948760986328
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.1978516680362064
+    r4: 0.9802319712472608
+- name_object: water bottle
+  position:
+    x: 1.7069511413574219
+    y: 2.252349853515625
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19705571878086842
+    r4: 0.9803922907161986
+- name_object: water bottle
+  position:
+    x: 1.7125129699707031
+    y: 2.254192352294922
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.1974389265734288
+    r4: 0.9803151892496271
+- name_object: water bottle
+  position:
+    x: 1.7150039672851562
+    y: 2.2554931640625
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19718392553522943
+    r4: 0.9803665128463523
+- name_object: water bottle
+  position:
+    x: 1.7072563171386719
+    y: 2.253093719482422
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.2003315822101274
+    r4: 0.9797281547292529
+- name_object: water bottle
+  position:
+    x: 1.7135696411132812
+    y: 2.254932403564453
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19716557709980254
+    r4: 0.9803702031410899
+- name_object: water bottle
+  position:
+    x: 1.7037887573242188
+    y: 2.2510757446289062
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19805148213833973
+    r4: 0.980191619237181
+- name_object: water bottle
+  position:
+    x: 1.71502685546875
+    y: 2.2539443969726562
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.198802639349073
+    r4: 0.9800395454204093
+- name_object: water bottle
+  position:
+    x: 1.7159347534179688
+    y: 2.251617431640625
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.20060533646811904
+    r4: 0.9796721385139585
+- name_object: water bottle
+  position:
+    x: 1.70458984375
+    y: 2.253093719482422
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19800030246780218
+    r4: 0.9802019588955425
+- name_object: water bottle
+  position:
+    x: 1.713714599609375
+    y: 2.253265380859375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19934014341132858
+    r4: 0.9799303583544858
+- name_object: water bottle
+  position:
+    x: 1.7168350219726562
+    y: 2.2536392211914062
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19946081365589105
+    r4: 0.9799058035422231
+- name_object: water bottle
+  position:
+    x: 1.7122077941894531
+    y: 2.250957489013672
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.1998660239203779
+    r4: 0.9798232353247492
+- name_object: water bottle
+  position:
+    x: 1.7101020812988281
+    y: 2.2547988891601562
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19902285853483245
+    r4: 0.9799948478337139
+- name_object: water bottle
+  position:
+    x: 1.7056159973144531
+    y: 2.2529525756835938
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19892262208191222
+    r4: 0.9800151990780841
+- name_object: water bottle
+  position:
+    x: 1.714996337890625
+    y: 2.254467010498047
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.1989487912400902
+    r4: 0.9800098869216101
+- name_object: water bottle
+  position:
+    x: 1.7055244445800781
+    y: 2.2558517456054688
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19564604088779122
+    r4: 0.9806745773624055
+- name_object: water bottle
+  position:
+    x: 1.712127685546875
+    y: 2.254375457763672
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19798265820967537
+    r4: 0.9802055228615226
+- name_object: water bottle
+  position:
+    x: 1.707244873046875
+    y: 2.2534255981445312
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19836766237180034
+    r4: 0.980127680725908
+- name_object: water bottle
+  position:
+    x: 1.7090263366699219
+    y: 2.252635955810547
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19783495806322468
+    r4: 0.980235343868054
+- name_object: water bottle
+  position:
+    x: 1.70941162109375
+    y: 2.255023956298828
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.1980022889034409
+    r4: 0.9802015576344482
+- name_object: water bottle
+  position:
+    x: 1.7165603637695312
+    y: 2.255176544189453
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19957809335716165
+    r4: 0.9798819238316013
+- name_object: water bottle
+  position:
+    x: 1.7076416015625
+    y: 2.2532730102539062
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19837747694911187
+    r4: 0.980125694306248
+- name_object: water bottle
+  position:
+    x: 1.7088623046875
+    y: 2.252788543701172
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19081478916005626
+    r4: 0.9816260572324897
+- name_object: water bottle
+  position:
+    x: 1.7054977416992188
+    y: 2.252765655517578
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.1979972643881936
+    r4: 0.9802025725811945
+- name_object: water bottle
+  position:
+    x: 1.7086105346679688
+    y: 2.2524032592773438
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.1998379908709576
+    r4: 0.9798289531365457
+- name_object: water bottle
+  position:
+    x: 1.7144393920898438
+    y: 2.253368377685547
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.2000852600828642
+    r4: 0.9797784896075095
+- name_object: water bottle
+  position:
+    x: 1.7097663879394531
+    y: 2.252002716064453
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19914961144090262
+    r4: 0.9799690976061121
+- name_object: water bottle
+  position:
+    x: 1.7058296203613281
+    y: 2.252544403076172
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19844220592502884
+    r4: 0.9801125909341275
+- name_object: water bottle
+  position:
+    x: 1.706787109375
+    y: 2.25830078125
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.1974909301869721
+    r4: 0.9803047141036733
+- name_object: water bottle
+  position:
+    x: 1.7088088989257812
+    y: 2.255218505859375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19783647715405328
+    r4: 0.9802350372779346
+- name_object: water bottle
+  position:
+    x: 1.7115058898925781
+    y: 2.2552490234375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19791044461720023
+    r4: 0.9802201058494068
+- name_object: water bottle
+  position:
+    x: 1.7145614624023438
+    y: 2.250823974609375
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.20291328663446836
+    r4: 0.979196710629278
+- name_object: water bottle
+  position:
+    x: 1.7079391479492188
+    y: 2.254901885986328
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.20019925425725735
+    r4: 0.9797552034027878
+- name_object: water bottle
+  position:
+    x: 1.7093086242675781
+    y: 2.2661666870117188
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19510064641401503
+    r4: 0.9807832266963141
+- name_object: water bottle
+  position:
+    x: 1.6949081420898438
+    y: 2.2690200805664062
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.1920456780883986
+    r4: 0.98138598804322
+- name_object: water bottle
+  position:
+    x: 1.6959114074707031
+    y: 2.2685623168945312
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.1905521918235776
+    r4: 0.9816770661430522
+- name_object: water bottle
+  position:
+    x: 1.6985893249511719
+    y: 2.274913787841797
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19292630381634532
+    r4: 0.9812132496535925
+- name_object: water bottle
+  position:
+    x: 1.7133102416992188
+    y: 2.2604598999023438
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19877191300925287
+    r4: 0.9800457778076705
+- name_object: water bottle
+  position:
+    x: 1.7058029174804688
+    y: 2.2615127563476562
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19467831882135908
+    r4: 0.9808671429816014
+- name_object: water bottle
+  position:
+    x: 1.7043991088867188
+    y: 2.255401611328125
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19638400996072203
+    r4: 0.9805270626717791
+- name_object: water bottle
+  position:
+    x: 1.7067184448242188
+    y: 2.259990692138672
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19698921823444834
+    r4: 0.9804056547671381
+- name_object: water bottle
+  position:
+    x: 1.7090835571289062
+    y: 2.267375946044922
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19334457004406377
+    r4: 0.9811309174796583
+- name_object: water bottle
+  position:
+    x: 1.7092704772949219
+    y: 2.2565536499023438
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19743133049348066
+    r4: 0.9803167190962184
+- name_object: water bottle
+  position:
+    x: 1.7097892761230469
+    y: 2.2525100708007812
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19882834184064835
+    r4: 0.9800343312766642
+- name_object: water bottle
+  position:
+    x: 1.7081718444824219
+    y: 2.253559112548828
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19726912214244935
+    r4: 0.9803493731569105
+- name_object: water bottle
+  position:
+    x: 1.717041015625
+    y: 2.2538223266601562
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.20046203787658928
+    r4: 0.9797014705359817
+- name_object: water bottle
+  position:
+    x: 1.7120285034179688
+    y: 2.250537872314453
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.20117299959682683
+    r4: 0.979555727987548
+- name_object: water bottle
+  position:
+    x: 1.7123298645019531
+    y: 2.2564163208007812
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19298467137243452
+    r4: 0.9812017716123802
+- name_object: water bottle
+  position:
+    x: 1.7046737670898438
+    y: 2.2542800903320312
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19522656599966573
+    r4: 0.9807581699521948
+- name_object: water bottle
+  position:
+    x: 1.7109375
+    y: 2.253032684326172
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.20000571951051793
+    r4: 0.9797947296056864
+- name_object: water bottle
+  position:
+    x: 1.7063064575195312
+    y: 2.2509689331054688
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.1982475490290036
+    r4: 0.9801519827577725
+- name_object: water bottle
+  position:
+    x: 1.7180557250976562
+    y: 2.2519149780273438
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.20087662269638512
+    r4: 0.979616548683256
+- name_object: water bottle
+  position:
+    x: 1.7186050415039062
+    y: 2.229278564453125
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.1522216933344938
+    r4: 0.9883463745460795
+- name_object: water bottle
+  position:
+    x: 1.7050704956054688
+    y: 2.2057723999023438
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.072382947198006
+    r4: 0.9973769141878764
+- name_object: water bottle
+  position:
+    x: 1.7112503051757812
+    y: 2.176471710205078
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.05404825226456582
+    r4: -0.9985383249666213
+- name_object: water bottle
+  position:
+    x: 1.7121658325195312
+    y: 2.174774169921875
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.051986927750362365
+    r4: -0.9986477654023358
+- name_object: water bottle
+  position:
+    x: 1.69879150390625
+    y: 2.1736373901367188
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.05621848884880358
+    r4: -0.9984184901691059
+- name_object: water bottle
+  position:
+    x: 1.7053413391113281
+    y: 2.1520309448242188
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.13356321048358327
+    r4: -0.9910402962570786
+- name_object: water bottle
+  position:
+    x: 1.7021675109863281
+    y: 2.1470870971679688
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.1279855699186658
+    r4: -0.9917760301058876
+- name_object: water bottle
+  position:
+    x: 1.6991043090820312
+    y: 2.1471481323242188
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.13054219669321201
+    r4: -0.9914427542135303
+- name_object: water bottle
+  position:
+    x: 1.703125
+    y: 2.15362548828125
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.13242175993258876
+    r4: -0.9911934611852299
+- name_object: water bottle
+  position:
+    x: 1.6976394653320312
+    y: 2.143482208251953
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.14014115531168764
+    r4: -0.9901315349931571
+- name_object: water bottle
+  position:
+    x: 1.7023506164550781
+    y: 2.132305145263672
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.20077222077865797
+    r4: -0.9796379511654323
+- name_object: water bottle
+  position:
+    x: 1.7062797546386719
+    y: 2.1294021606445312
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19977912093476108
+    r4: -0.9798409579306909
+- name_object: water bottle
+  position:
+    x: 1.7095565795898438
+    y: 2.1366806030273438
+  quaternion:
+    r1: 0
+    r2: 0
+    r3: 0.19590182350676033
+    r4: -0.9806235136619589

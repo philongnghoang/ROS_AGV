@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<robot name="physics">
+
+<material name="blue">
+    <color rgba="0 0 0.8 2"/>
+  </material>
+<material name="black">
+    <color rgba="0 0 0 2"/>
+  </material>
+<material name="dark">
+    <color rgba="0.3 0.3 0.3 2"/>
+  </material>
+<material name="light_black">
+    <color rgba="0.4 0.4 0.4 1.0"/>
+  </material>
+<material name="white">
+    <color rgba="1 1 1 2"/>
+  </material>
+<material name="green">
+    <color rgba="0.0 0.8 0.0 1.5"/>
+  </material>
+<material name="grey">
+    <color rgba="0.5 0.5 0.5 1.0"/>
+  </material>
+<material name="orange">
+    <color rgba="${255/255} ${108/255} ${10/255} 1.0"/>
+  </material>
+<material name="brown">
+    <color rgba="${222/255} ${207/255} ${195/255} 1.0"/>
+  </material>
+<material name="red">
+    <color rgba="0.8 0.0 0.0 2"/>
+  </material>
+
+  <link name="base_link">
+    <visual>
+      <geometry>
+        <cylinder length="0.02" radius="0.2"/>
+      </geometry>
+      <origin rpy="0 0 0" xyz="0 0 0.05"/>
+      <material name="blue"/>
+    </visual>
+  </link>
+
+  <link name="rwheel">
+    <visual>
+      <geometry>
+        <cylinder length="0.02" radius="0.05"/>
+      </geometry>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <material name="green"/>
+    </visual>
+  </link>
+
+  <joint name="base_to_right_wheel" type="fixed">
+    <parent link="base_link"/>
+    <child link="rwheel"/>
+    <origin xyz="0 -0.2 0.05" rpy="-1.5708 0 0"/>
+  </joint>
+
+  <link name="lwheel">
+    <visual>
+      <geometry>
+        <cylinder length="0.02" radius="0.05"/>
+      </geometry>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <material name="green"/>
+    </visual>
+  </link>
+
+  <joint name="base_to_left_wheel" type="fixed">
+    <parent link="base_link"/>
+    <child link="lwheel"/>
+    <origin xyz="0 0.2 0.05" rpy="1.5708 0 0"/>
+  </joint>
+
+  <link name="fwheel_attach">
+    <visual>
+      <geometry>
+        <sphere radius="0.03"/>
+      </geometry>
+      <origin rpy="0 0 0" xyz="0.15 0 0.03"/>
+      <material name="green"/>
+    </visual>
+  </link>
+
+  <joint name="base_to_fattach" type="fixed">
+    <parent link="base_link"/>
+    <child link="fwheel_attach"/>
+    <origin xyz="0 0 0" rpy="0.15 0 0.03"/>
+  </joint>
+
+  <link name="scanner">
+    <visual>
+      <geometry>
+        <cylinder length="0.04" radius="0.03"/>
+      </geometry>
+      <origin rpy="0 0 0" xyz="0.022 0 0.015"/>
+      <material name="black"/>
+    </visual>
+  </link>
+   
+  <joint name="base_to_scanner" type="fixed">
+    <parent link="base_link"/>
+    <child link="scanner"/>
+    <origin xyz="0.105 0 0.27" rpy="0 0 0"/>
+  </joint>
+
+  <link name="tru_1">
+    <visual>
+      <geometry>
+        <cylinder length="0.2" radius="0.005"/>
+      </geometry>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <material name="white"/>
+    </visual>
+  </link>
+   
+  <joint name="base_to_tru_1" type="fixed">
+    <parent link="base_link"/>
+    <child link="tru_1"/>
+    <origin xyz="0.12 0.12 0.15" rpy="0 0 0"/>
+  </joint>
+
+  <link name="tru_2">
+    <visual>
+      <geometry>
+        <cylinder length="0.2" radius="0.005"/>
+      </geometry>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <material name="white"/>
+    </visual>
+  </link>
+   
+  <joint name="base_to_tru_2" type="fixed">
+    <parent link="base_link"/>
+    <child link="tru_2"/>
+    <origin xyz="-0.12 0.12 0.15" rpy="0 0 0"/>
+  </joint>
+
+  <link name="tru_3">
+    <visual>
+      <geometry>
+        <cylinder length="0.2" radius="0.005"/>
+      </geometry>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <material name="white"/>
+    </visual>
+  </link>
+   
+  <joint name="base_to_tru_3" type="fixed">
+    <parent link="base_link"/>
+    <child link="tru_3"/>
+    <origin xyz="0.12 -0.12 0.15" rpy="0 0 0"/>
+  </joint>
+
+  <link name="tru_4">
+    <visual>
+      <geometry>
+        <cylinder length="0.2" radius="0.005"/>
+      </geometry>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <material name="white"/>
+    </visual>
+  </link>
+   
+  <joint name="base_to_tru_4" type="fixed">
+    <parent link="base_link"/>
+    <child link="tru_4"/>
+    <origin xyz="-0.12 -0.12 0.15" rpy="0 0 0"/>
+  </joint>
+
+  <link name="base_link_up">
+    <visual>
+      <geometry>
+        <cylinder length="0.02" radius="0.2"/>
+      </geometry>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <material name="blue"/>
+    </visual>
+  </link>
+   
+  <joint name="base_to_up" type="fixed">
+    <parent link="base_link"/>
+    <child link="base_link_up"/>
+    <origin xyz="0 0 0.25" rpy="0 0 0"/>
+  </joint>
+
+</robot>

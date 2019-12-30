@@ -1,0 +1,7 @@
+<launch>
+    <node  pkg="serial_example" type="twist_to_motor" 
+            name="twist_to_motor" />
+    <node   pkg="serial_example" type="serial_tx_motor_node" 
+            name="serial_tx_motor_node" />
+
+</launch>

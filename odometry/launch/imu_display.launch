@@ -1,0 +1,11 @@
+<launch>
+
+    <node pkg="odometry" type="serial_imu_node_new" 
+            name="serial_imu_node_new" output="screen">
+    <param name="serial_port"         type="string" value="/dev/ttyUSB3"/>
+    <param name="serial_baudrate"     type="int"    value="115200"/>
+    <param name="frame_id"            type="string" value="map"/> 
+    </node>
+ <!--   <node pkg="rviz" type="rviz" name="rviz"/> -->
+
+</launch>        

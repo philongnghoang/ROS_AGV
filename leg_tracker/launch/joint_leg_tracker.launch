@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<launch>
+  <!-- params -->
+  <param name="forest_file" value="$(find leg_tracker)/config/trained_leg_detector_res=0.33.yaml" />
+  <param name="scan_topic" value="/scan" />
+  <param name="fixed_frame" value="/odom"/>
+  <param name="scan_frequency" value="10"/>  
+  
+  
+  <!-- run detect_leg_clusters -->  
+  <node pkg="leg_tracker" type="detect_leg_clusters" name="detect_leg_clusters" output="screen"/>
+
+  <!-- run joint_leg_tracker -->
+  <node pkg="leg_tracker" type="joint_leg_tracker.py" name="joint_leg_tracker" output="screen"/>
+ 
+   <!-- run local_occupancy_grid_mapping -->
+  <node pkg="leg_tracker" type="local_occupancy_grid_mapping" name="local_occupancy_grid_mapping" output="screen"/> 
+  <!--Odom -->
+  
+  <node  pkg="odometry" type="serial_imu_node_new" 
+            name="serial_imu_node_new" />
+
+  <node   pkg="odometry" type="serial_rx_motor_node" 
+            name="serial_rx_motor_node" />
+   
+  <node   pkg="chefbot_bringup" type="diff_odom.py" name="diff_odom" />   
+
+  <!--Rp lidar Control -->
+  <include  file = "$(find rplidar_ros)/launch/rplidar.launch"/>
+  <include  file = "$(find odometry)/launch/control_robot.launch"/>     
+</launch>
+

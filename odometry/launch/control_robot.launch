@@ -1,0 +1,7 @@
+<launch>
+    <node  pkg="odometry" type="twist2motor" 
+            name="twist_to_motor" />
+    <node   pkg="odometry" type="serial_tx_motor_node" 
+            name="serial_tx_motor_node" />
+
+</launch>

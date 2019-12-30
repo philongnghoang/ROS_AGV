@@ -1,0 +1,15 @@
+<launch>
+    <!--
+    <node  pkg="odometry" type="serial_imu_node_new" 
+            name="serial_imu_node_new" />
+        -->
+    
+    <node   pkg="odometry" type="serial_rx_motor_node" 
+            name="serial_rx_motor_node" />
+    <!--
+    <node   pkg="chefbot_bringup" type="odom_tf.py" name="diff_odom"/> 
+    -->
+    
+    <node   pkg="chefbot_bringup" type="odom_tf.py" name="diff_odom" output="screen"/>        
+    
+</launch>
